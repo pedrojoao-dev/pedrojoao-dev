@@ -1,6 +1,6 @@
 ## Iae! Sou joão Pedro
 <p>
-  Iae sou João Pedro, um estudante do ifrn-campus Caicó. Sou apaixonado pela imformática e busco sempre aprender e melhorar, sou um desenvolvedor Full Stack. Busco sempre novas tecnologias para desenvolver minhas habilidade, como progamador
+  Sou João Pedro, um estudante do ifrn-campus Caicó. Sou apaixonado pela imformática e busco sempre aprender e melhorar, sou um desenvolvedor Full Stack. Busco sempre novas tecnologias para desenvolver minhas habilidade, como progamador
   , e que meus futuros projetos sejam ainda melhores.
 </p>
 
